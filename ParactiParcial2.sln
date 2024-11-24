@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParactiParcial2", "ParactiParcial2\ParactiParcial2.csproj", "{08C0D273-D4B1-4E36-9F0C-65EB5C5BBBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C0D273-D4B1-4E36-9F0C-65EB5C5BBBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C0D273-D4B1-4E36-9F0C-65EB5C5BBBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C0D273-D4B1-4E36-9F0C-65EB5C5BBBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C0D273-D4B1-4E36-9F0C-65EB5C5BBBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F2A8A6-5AD5-49FC-9849-F71728BE8601}
+	EndGlobalSection
+EndGlobal
